@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Applicatoin.cpp
+c:\users\christina.kylili\documents\visual studio 2015\projects\applicatoin\applicatoin\applicatoin.cpp(248): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Applicatoin.vcxproj -> C:\Users\christina.kylili\Documents\Visual Studio 2015\Projects\Applicatoin\Debug\Applicatoin.exe
+  Applicatoin.vcxproj -> C:\Users\christina.kylili\Documents\Visual Studio 2015\Projects\Applicatoin\Debug\Applicatoin.pdb (Full PDB)
